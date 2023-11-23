@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"> 
+<p> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/zenghongtu/count.svg" />
 </p>
